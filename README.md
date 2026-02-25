@@ -247,6 +247,6 @@ Contact & Portfolio Links
 GitHub: github.com/your-username/data-analyst-portfolio
 LinkedIn: linkedin.com/in/your-profile
 Tableau Public: public.tableau.com/profile/your-username
-Email: your.email@example.com
+Email: your.nvarunsai17@gmail.com
 
 Data Analyst Portfolio | Confidential | 2025
