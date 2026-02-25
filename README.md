@@ -244,9 +244,8 @@ This project demonstrates hands-on proficiency in the complete data analytics li
 Key competencies demonstrated include statistical analysis, predictive modeling, SQL querying, Python scripting, dashboard development, and business communication. The ability to translate complex data findings into clear, actionable recommendations makes this project a strong showcase of both technical and business intelligence capabilities.
 
 Contact & Portfolio Links
-GitHub: github.com/your-username/data-analyst-portfolio
-LinkedIn: linkedin.com/in/your-profile
-Tableau Public: public.tableau.com/profile/your-username
-Email: your.nvarunsai17@gmail.com
+GitHub: [github.com/your-username/data-analyst-portfolio](https://github.com/nvarunsai)
+LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nandi-varun-sai-57b23a226/)
+Email: nvarunsai17@gmail.com
 
 Data Analyst Portfolio | Confidential | 2025
